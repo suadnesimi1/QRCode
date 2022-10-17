@@ -1,4 +1,4 @@
-a@Author SuadNesimi 2022
+@Author SuadNesimi 2022
 
 A basic QR Code that generates date and time automatically
 using HTML, CSS AND JAVASCRIPT.
